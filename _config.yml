@@ -27,10 +27,6 @@ icons:                       # (optional) icons in the header, see http://fontaw
   linkedin: "https://www.linkedin.com/in/dpak-chtan"
   twitter: "https://www.twitter.com/deepakchethan"
 
-comments:                    # embed disqus or isso comments
-#  disqus: ""
-#  isso: ""
-
 plugins: 
  - jekyll-feed
  - jekyll-paginate
