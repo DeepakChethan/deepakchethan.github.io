@@ -7,8 +7,6 @@ After so many sleepless nights (cause I'm dumb) and over 20 patches and a 3-page
 
 I will spend this summer enhancing the UI (or at least try) of radare2. In the process learn tons of stuff.
 
-I will keep updating the status of this project every week, for my sake.
-
 cheers!
 
 
