@@ -1,11 +1,11 @@
-title: "Not an interesting Title"
+title: "A Blog"
 author: "Deepak Chethan"
 description: "A boring blog about things I find interesting!"
 lang: "en"
 
 # Jekyll settings
 permalink: /:categories/:title/
-paginate: 8                  # number of articles per page, remove to disable pagination
+paginate: 10                 # number of articles per page, remove to disable pagination
 excerpt_separator: "\n\n\n"  # indicates the end of the excerpt by two blank lines
 
 # Page settings
@@ -20,7 +20,9 @@ dark_header: true           # keep the header dark
 
 navigation:                  # (optional) site navigation in the header
   - index.html
-  - categories.html
+  - tech.html
+  - books.html
+  - games.html
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "deepakchethan@outlook.com"

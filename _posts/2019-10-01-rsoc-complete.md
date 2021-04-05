@@ -1,6 +1,6 @@
 ---
 title: "Successfully completed RSoC!"
-category: "code"
+category: "tech"
 ---
 
 # RSoC 2019 Final: Console Interface Improvements

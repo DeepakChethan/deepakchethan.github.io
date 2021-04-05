@@ -454,7 +454,7 @@ function () {
    * instead, "error" translates to a return value of `true`, while "ignore"
    * translates to a return value of `false`.  May still print a warning:
    * "warn" prints a warning and returns `false`.
-   * This is for the second category of `errorCode`s listed in the README.
+   * This is for the second category.html of `errorCode`s listed in the README.
    */
   ;
 
@@ -13115,7 +13115,7 @@ combiningDiacriticalMarkString + "*") + // ...plus accents
 var Lexer_Lexer =
 /*#__PURE__*/
 function () {
-  // category codes, only supports comment characters (14) for now
+  // category.html codes, only supports comment characters (14) for now
   function Lexer(input, settings) {
     this.input = void 0;
     this.settings = void 0;

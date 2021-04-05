@@ -1,6 +1,6 @@
 ---
 title: "Got Selected to RSoC!"
-category: "code"
+category: "tech"
 ---
 
 After so many sleepless nights (cause I'm dumb) and over 20 patches and a 3-page proposal to Radare2, I got selected to RSoC! Probably the biggest achievement to date. I am so grateful for this opportunity and I'll try my best to not let anyone down (especially myself).
