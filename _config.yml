@@ -23,12 +23,12 @@ navigation:                  # (optional) site navigation in the header
   - tech.html
   - books.html
   - games.html
+  - random.html
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "deepakchethan@outlook.com"
   github: "https://github.com/deepakchethan"
-  linkedin: "https://www.linkedin.com/in/dpak-chtan"
-  twitter: "https://www.twitter.com/deepakchethan"
+  linkedin: "https://www.linkedin.com/in/deepakchethan"
 
 plugins: 
  - jekyll-feed
