@@ -1,0 +1,15 @@
+---
+layout: page
+permalink: /random/
+title: Random
+---
+
+<div class="archive">
+    {% for post in site.categories['random'] %}
+    {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
+    <div>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    </div>
+    {% endfor %}
+</div>
